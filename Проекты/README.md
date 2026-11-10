@@ -19,8 +19,8 @@ $`\color{orange}*`$ `Bootstrap 5`.
 **Стек технологий:**
 
 $`\color{orange}*`$ `HTML5`, `CSS3`, `JavaScript`;<br>
-$`\color{orange}*`$ `Bootstrap 4`.
-$`\color{orange}*`$ `Go`;<br>
+$`\color{orange}*`$ `Bootstrap 4`;<br>
+$`\color{orange}*`$ `Go`.
 
 ## Платформа для спортивного клуба, 
 
