@@ -32,7 +32,7 @@ $`\color{orange}*`$ Графические редакторы: `Adobe Photoshop`
 
 ## Контакты
 
-$`\color{orange}*`$ alenagrigoryeva02@gmail.com<br>
-$`\color{orange}*`$ [Сайт](https://yongsatur.github.io/)<br>
-$`\color{orange}*`$ [Вконтакте](http://vk.ru/yongsatur)<br>
-$`\color{orange}*`$ [Телеграм](http://t.me/yongsatur)<br>
+$`\color{orange}*`$ Электронная почта: alenagrigoryeva02@gmail.com;<br>
+$`\color{orange}*`$ Личный сайт: [yongsatur.github.io](https://yongsatur.github.io/);<br>
+$`\color{orange}*`$ Вконтакте: [@yongsatur](http://vk.ru/yongsatur);<br>
+$`\color{orange}*`$ Телеграм: [@yongsatur](http://t.me/yongsatur).<br>
