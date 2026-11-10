@@ -9,12 +9,12 @@
 
 ## Навыки и инструменты
 
-$`\color{orange}*`$ Языки программирования: `Python` , `JavaScript` , `C#` , `1С:Предприятие` ;<br>
-$`\color{orange}*`$ Технологии верстки: `HTML5` , `CSS3` , `Bootstrap` ;<br>
-$`\color{orange}*`$ Языки и нотации моделирования и проектирования: `UML` , `IDEF` , `DFD` , `BPMN` ;<br>
-$`\color{orange}*`$ Базы данных: `PostgreSQL` , `MySQL` , `MS SQL Server` , `SQLite` ;<br>
-$`\color{orange}*`$ Microsoft Office: `Microsoft Excel` , `Word` , `PowerPoint` , `Access` ;<br>
-$`\color{orange}*`$ Графические редакторы: `Adobe Photoshop` , `Illustrator` , `CorelDRAW` .
+$`\color{yellow}*`$ Языки программирования: `Python` , `JavaScript` , `C#` , `1С:Предприятие` ;<br>
+$`\color{yellow}*`$ Технологии верстки: `HTML5` , `CSS3` , `Bootstrap` ;<br>
+$`\color{yellow}*`$ Языки и нотации моделирования и проектирования: `UML` , `IDEF` , `DFD` , `BPMN` ;<br>
+$`\color{yellow}*`$ Базы данных: `PostgreSQL` , `MySQL` , `MS SQL Server` , `SQLite` ;<br>
+$`\color{yellow}*`$ Microsoft Office: `Microsoft Excel` , `Word` , `PowerPoint` , `Access` ;<br>
+$`\color{yellow}*`$ Графические редакторы: `Adobe Photoshop` , `Illustrator` , `CorelDRAW` .
 
 ## Достижения и награды
 
@@ -32,7 +32,7 @@ $`\color{orange}*`$ Графические редакторы: `Adobe Photoshop`
 
 ## Контакты
 
-$`\color{orange}*`$ Электронная почта: alenagrigoryeva02@gmail.com;<br>
-$`\color{orange}*`$ Личный сайт: [yongsatur.github.io](https://yongsatur.github.io/);<br>
-$`\color{orange}*`$ Вконтакте: [@yongsatur](http://vk.ru/yongsatur);<br>
-$`\color{orange}*`$ Телеграм: [@yongsatur](http://t.me/yongsatur).<br>
+$`\color{yellow}*`$ Электронная почта: alenagrigoryeva02@gmail.com;<br>
+$`\color{yellow}*`$ Личный сайт: [yongsatur.github.io](https://yongsatur.github.io/);<br>
+$`\color{yellow}*`$ Вконтакте: [@yongsatur](http://vk.ru/yongsatur);<br>
+$`\color{yellow}*`$ Телеграм: [@yongsatur](http://t.me/yongsatur).<br>
