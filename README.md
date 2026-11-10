@@ -9,10 +9,10 @@
 
 ## Навыки и инструменты
 
-🔸 Языки программирования: `Python`, `JavaScript`, `C#`, `1С:Предприятие`;
-🔸 Технологии верстки: `HTML5`, `CSS3`, `Bootstrap`;
-🔸 Языки и нотации моделирования и проектирования: `UML`, `IDEF`, `DFD`, `BPMN`;
-🔸 Базы данных: `PostgreSQL`, `MySQL`, `MS SQL Server`, `SQLite`;
-🔸 Microsoft Office: `Microsoft Excel`, `Word`, `PowerPoint`, `Access`;
-🔸 Графические редакторы: `Adobe Photoshop`, `Illustrator`, `CorelDRAW`.
+$$\color{orange}*$$ Языки программирования: `Python`, `JavaScript`, `C#`, `1С:Предприятие`;
+$$\color{orange}*$$ Технологии верстки: `HTML5`, `CSS3`, `Bootstrap`;
+$$\color{orange}*$$ Языки и нотации моделирования и проектирования: `UML`, `IDEF`, `DFD`, `BPMN`;
+$$\color{orange}*$$ Базы данных: `PostgreSQL`, `MySQL`, `MS SQL Server`, `SQLite`;
+$$\color{orange}*$$ Microsoft Office: `Microsoft Excel`, `Word`, `PowerPoint`, `Access`;
+$$\color{orange}*$$ Графические редакторы: `Adobe Photoshop`, `Illustrator`, `CorelDRAW`.
 
