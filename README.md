@@ -4,11 +4,14 @@
 
 # О себе
 
+Разработала три веб-сервиса: систему управления проектами для Министерства сельского хозяйства Забайкальского края, сайт с интеграцией Google Drive для социологического факультета университета и веб-приложение для студенческого спортивного клуба. 
+Интересует профессиональное развитие в сферах системного анализа и разработки программного обеспечения.
+
 # Навыки и инструменты
 
-**Языки программирования: Python, JavaScript, C#, 1С.
-**Технологии верстки: HTML5, CSS3, Bootstrap.
-**Языки и нотации моделирования и проектирования: UML, IDEF, DFD, BPMN
-**Базы данных: MySQL, PostgreSQL, MSSQL, SQLite.
-**Microsoft Office: Excel, Word, PowerPoint, Access.
-**Графические редакторы: Photoshop, Illustrator, CorelDRAW.
+- Языки программирования: Python, JavaScript, C#, 1С.
+- Технологии верстки: HTML5, CSS3, Bootstrap.
+- Языки и нотации моделирования и проектирования: UML, IDEF, DFD, BPMN
+- Базы данных: MySQL, PostgreSQL, MSSQL, SQLite.
+- Microsoft Office: Excel, Word, PowerPoint, Access.
+- Графические редакторы: Photoshop, Illustrator, CorelDRAW.
