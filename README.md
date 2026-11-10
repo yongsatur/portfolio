@@ -9,10 +9,10 @@
 
 ## Навыки и инструменты
 
-<span style="color: orange;">*</span> **Языки программирования:** `Python` , `JavaScript` , `C#` , `1С:Предприятие` ;
-<span style="color: orange;">*</span> **Технологии верстки:** `HTML5` , `CSS3` , `Bootstrap` ;
-<span style="color: orange;">*</span> **Языки и нотации моделирования и проектирования:** `UML` , `IDEF` , `DFD` , `BPMN` ;
-<span style="color: orange;">*</span> **Базы данных:** `PostgreSQL` , `MySQL` , `MS SQL Server` , `SQLite` ;
-<span style="color: orange;">*</span> **Microsoft Office:** `Microsoft Excel` , `Word` , `PowerPoint` , `Access` ;
-<span style="color: orange;">*</span> **Графические редакторы:** `Adobe Photoshop` , `Illustrator` , `CorelDRAW` .
+<span style="color:orange;">★</span> **Языки программирования:** `Python` , `JavaScript` , `C#` , `1С:Предприятие` ;<br>
+<span style="color:orange;">★</span> **Технологии верстки:** `HTML5` , `CSS3` , `Bootstrap` ;<br>
+<span style="color:orange;">★</span> **Языки и нотации моделирования и проектирования:** `UML` , `IDEF` , `DFD` , `BPMN` ;<br>
+<span style="color:orange;">★</span> **Базы данных:** `PostgreSQL` , `MySQL` , `MS SQL Server` , `SQLite` ;<br>
+<span style="color:orange;">★</span> **Microsoft Office:** `Microsoft Excel` , `Word` , `PowerPoint` , `Access` ;<br>
+<span style="color:orange;">★</span> **Графические редакторы:** `Adobe Photoshop` , `Illustrator` , `CorelDRAW` .
 
