@@ -9,10 +9,11 @@
 
 ## Навыки и инструменты
 
-<font color="orange">*</font> Языки программирования: `Python` , `JavaScript` , `C#` , `1С:Предприятие` ;<br>
-<font color="orange">*</font> Технологии верстки: `HTML5` , `CSS3` , `Bootstrap` ;<br>
-<font color="orange">*</font> Языки и нотации моделирования и проектирования: `UML` , `IDEF` , `DFD` , `BPMN` ;<br>
-<font color="orange">*</font> Базы данных: `PostgreSQL` , `MySQL` , `MS SQL Server` , `SQLite` ;<br>
-<font color="orange">*</font> Microsoft Office: `Microsoft Excel` , `Word` , `PowerPoint` , `Access` ;<br>
-<font color="orange">*</font> Графические редакторы: `Adobe Photoshop` , `Illustrator` , `CorelDRAW` .
+$$\color{orange}*$$ Языки программирования: `Python` , `JavaScript` , `C#` , `1С:Предприятие` ;<br>
+$$\color{orange}*$$ Технологии верстки: `HTML5` , `CSS3` , `Bootstrap` ;<br>
+$$\color{orange}*$$ Языки и нотации моделирования и проектирования: `UML` , `IDEF` , `DFD` , `BPMN` ;<br>
+$$\color{orange}*$$ Базы данных: `PostgreSQL` , `MySQL` , `MS SQL Server` , `SQLite` ;<br>
+$$\color{orange}*$$ Microsoft Office: `Microsoft Excel` , `Word` , `PowerPoint` , `Access` ;<br>
+$$\color{orange}*$$ Графические редакторы: `Adobe Photoshop` , `Illustrator` , `CorelDRAW` .
+
 
