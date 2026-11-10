@@ -9,7 +9,7 @@
 
 # Навыки и инструменты
 
-- Языки программирования: Python, JavaScript, C#, 1С.
+- Языки программирования: ![Python](https://shields.io), ![JavaScript](https://shields.io), ![C#](https://shields.io), ![1C](https://shields.io).
 - Технологии верстки: HTML5, CSS3, Bootstrap.
 - Языки и нотации моделирования и проектирования: UML, IDEF, DFD, BPMN
 - Базы данных: MySQL, PostgreSQL, MSSQL, SQLite.
