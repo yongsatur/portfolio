@@ -8,9 +8,9 @@
 
 **Стек технологий:**
 
-$`\color{orange}*`$ `Python`, `Django`;<br>
-$`\color{orange}*`$ `HTML5`, `CSS3`, `JavaScript`;<br>
-$`\color{orange}*`$ `Bootstrap 5`.
+$`\color{yellow}*`$ `Python`, `Django`;<br>
+$`\color{yellow}*`$ `HTML5`, `CSS3`, `JavaScript`;<br>
+$`\color{yellow}*`$ `Bootstrap 5`.
 
 ## Сайт для приема заявок и статей
 
@@ -18,9 +18,9 @@ $`\color{orange}*`$ `Bootstrap 5`.
 
 **Стек технологий:**
 
-$`\color{orange}*`$ `HTML5`, `CSS3`, `JavaScript`;<br>
-$`\color{orange}*`$ `Bootstrap 4`;<br>
-$`\color{orange}*`$ `Go`.
+$`\color{yellow}*`$ `HTML5`, `CSS3`, `JavaScript`;<br>
+$`\color{yellow}*`$ `Bootstrap 4`;<br>
+$`\color{yellow}*`$ `Go`.
 
 ## Платформа для спортивного клуба, 
 
@@ -28,9 +28,9 @@ $`\color{orange}*`$ `Go`.
 
 **Стек технологий:**
 
-$`\color{orange}*`$ `Python`, `Django`;<br>
-$`\color{orange}*`$ `HTML5`, `CSS3`, `JavaScript`;<br>
-$`\color{orange}*`$ `Bootstrap 5`.
+$`\color{yellow}*`$ `Python`, `Django`;<br>
+$`\color{yellow}*`$ `HTML5`, `CSS3`, `JavaScript`;<br>
+$`\color{yellow}*`$ `Bootstrap 5`.
 
 ## Лендинг для фотостудии STUDIO 220, 
 
@@ -38,9 +38,9 @@ $`\color{orange}*`$ `Bootstrap 5`.
 
 **Стек технологий:**
 
-$`\color{orange}*`$ `HTML5`, `CSS3`;<br>
-$`\color{orange}*`$ `JavaScript`;<br>
-$`\color{orange}*`$ `Bootstrap 4`.
+$`\color{yellow}*`$ `HTML5`, `CSS3`;<br>
+$`\color{yellow}*`$ `JavaScript`;<br>
+$`\color{yellow}*`$ `Bootstrap 4`.
 
 ## Десктопное приложение для управления конференциями на C#, 
 
@@ -48,9 +48,9 @@ $`\color{orange}*`$ `Bootstrap 4`.
 
 **Стек технологий:**
 
-$`\color{orange}*`$ `C#`;<br>
-$`\color{orange}*`$ `.NET`;<br>
-$`\color{orange}*`$ `WPF`, `XAML`.
+$`\color{yellow}*`$ `C#`;<br>
+$`\color{yellow}*`$ `.NET`;<br>
+$`\color{yellow}*`$ `WPF`, `XAML`.
 
 ## Комплекс программных приложений для обработки обращений и планирования задач по сотрудникам,
 
@@ -58,7 +58,7 @@ $`\color{orange}*`$ `WPF`, `XAML`.
 
 **Стек технологий:**
 
-$`\color{orange}*`$ `Python`, `Django`;<br>
-$`\color{orange}*`$ `HTML5`, `CSS3`, `JavaScript`;<br>
-$`\color{orange}*`$ `Bootstrap 5`;<br>
-$`\color{orange}*`$ `1С:Предприятие`.
+$`\color{yellow}*`$ `Python`, `Django`;<br>
+$`\color{yellow}*`$ `HTML5`, `CSS3`, `JavaScript`;<br>
+$`\color{yellow}*`$ `Bootstrap 5`;<br>
+$`\color{yellow}*`$ `1С:Предприятие`.
