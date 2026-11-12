@@ -18,7 +18,7 @@
 | Языки и нотации моделирования и проектирования | `UML` `IDEF` `DFD` `BPMN` |
 | Базы данных | `PostgreSQL` `MySQL` `MS SQL Server` `SQLite` |
 | Microsoft Office | `Excel` `Word` `PowerPoint` `Access` |
-| Графические редакторы | `Adobe Photoshop` `Illustrator` `CorelDRAW` |
+| Графические редакторы | `Photoshop` `Illustrator` `CorelDRAW` |
 
 ## Достижения и награды
 
