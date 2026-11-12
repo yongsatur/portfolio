@@ -10,7 +10,7 @@
 
 $`\color{yellow}*`$ `Python` · `Django`<br>
 $`\color{yellow}*`$ `HTML5` · `CSS3` · `JavaScript`<br>
-$`\color{yellow}*`$ `Bootstrap 5`
+$`\color{yellow}*`$ `Bootstrap 5`<br>
 $`\color{yellow}*`$ `MySQL`
 
 ## Сайт для приема заявок и статей
