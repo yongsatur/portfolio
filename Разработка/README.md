@@ -8,9 +8,9 @@
 
 **Стек технологий:**
 
-$`\color{yellow}*`$ `Python`, `Django`;<br>
-$`\color{yellow}*`$ `HTML5`, `CSS3`, `JavaScript`;<br>
-$`\color{yellow}*`$ `Bootstrap 5`.
+$`\color{yellow}*`$ `Python` · `Django`<br>
+$`\color{yellow}*`$ `HTML5` · `CSS3` · `JavaScript`<br>
+$`\color{yellow}*`$ `Bootstrap 5`
 
 ## Сайт для приема заявок и статей
 
@@ -18,9 +18,9 @@ $`\color{yellow}*`$ `Bootstrap 5`.
 
 **Стек технологий:**
 
-$`\color{yellow}*`$ `HTML5`, `CSS3`, `JavaScript`;<br>
-$`\color{yellow}*`$ `Bootstrap 4`;<br>
-$`\color{yellow}*`$ `Go`.
+$`\color{yellow}*`$ `HTML5` · `CSS3` · `JavaScript`<br>
+$`\color{yellow}*`$ `Bootstrap 4`<br>
+$`\color{yellow}*`$ `Go`
 
 ## Платформа для спортивного клуба, 
 
@@ -28,9 +28,9 @@ $`\color{yellow}*`$ `Go`.
 
 **Стек технологий:**
 
-$`\color{yellow}*`$ `Python`, `Django`;<br>
-$`\color{yellow}*`$ `HTML5`, `CSS3`, `JavaScript`;<br>
-$`\color{yellow}*`$ `Bootstrap 5`.
+$`\color{yellow}*`$ `Python` · `Django`<br>
+$`\color{yellow}*`$ `HTML5` · `CSS3` · `JavaScript`<br>
+$`\color{yellow}*`$ `Bootstrap 5`
 
 ## Лендинг для фотостудии STUDIO 220, 
 
@@ -38,9 +38,8 @@ $`\color{yellow}*`$ `Bootstrap 5`.
 
 **Стек технологий:**
 
-$`\color{yellow}*`$ `HTML5`, `CSS3`;<br>
-$`\color{yellow}*`$ `JavaScript`;<br>
-$`\color{yellow}*`$ `Bootstrap 4`.
+$`\color{yellow}*`$ `HTML5` · `CSS3` · `JavaScript`<br>
+$`\color{yellow}*`$ `Bootstrap 4`
 
 ## Десктопное приложение для управления конференциями на C#, 
 
@@ -48,9 +47,8 @@ $`\color{yellow}*`$ `Bootstrap 4`.
 
 **Стек технологий:**
 
-$`\color{yellow}*`$ `C#`;<br>
-$`\color{yellow}*`$ `.NET`;<br>
-$`\color{yellow}*`$ `WPF`, `XAML`.
+$`\color{yellow}*`$ `C#` · `.NET`<br>
+$`\color{yellow}*`$ `WPF` · `XAML`
 
 ## Комплекс программных приложений для IT-компании
 
@@ -58,7 +56,7 @@ $`\color{yellow}*`$ `WPF`, `XAML`.
 
 **Стек технологий:**
 
-$`\color{yellow}*`$ `Python`, `Django`;<br>
-$`\color{yellow}*`$ `HTML5`, `CSS3`, `JavaScript`;<br>
-$`\color{yellow}*`$ `Bootstrap 5`;<br>
-$`\color{yellow}*`$ `1С:Предприятие`.
+$`\color{yellow}*`$ `Python` · `Django`<br>
+$`\color{yellow}*`$ `HTML5` · `CSS3` · `JavaScript`<br>
+$`\color{yellow}*`$ `Bootstrap 5`<br>
+$`\color{yellow}*`$ `1С:Предприятие`
