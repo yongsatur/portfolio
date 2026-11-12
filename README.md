@@ -9,12 +9,16 @@
 
 ## Навыки и инструменты
 
-$`\color{yellow}*`$ Языки программирования: `Python` , `JavaScript` , `C#` , `1С:Предприятие` ;<br>
-$`\color{yellow}*`$ Технологии верстки: `HTML5` , `CSS3` , `Bootstrap` ;<br>
-$`\color{yellow}*`$ Языки и нотации моделирования и проектирования: `UML` , `IDEF` , `DFD` , `BPMN` ;<br>
-$`\color{yellow}*`$ Базы данных: `PostgreSQL` , `MySQL` , `MS SQL Server` , `SQLite` ;<br>
-$`\color{yellow}*`$ Microsoft Office: `Microsoft Excel` , `Word` , `PowerPoint` , `Access` ;<br>
-$`\color{yellow}*`$ Графические редакторы: `Adobe Photoshop` , `Illustrator` , `CorelDRAW` .
+В таблице продемонстрированы основные технологии и инструменты, которыми я владею. Сочетание навыков программирования, проектирования бизнес-процессов и работы с базами данных позволяет мне решать задачи комплексно — от анализа требований до написания кода.
+
+| Категория | Инструменты и технологии | 
+| :--- | :---: |
+| Языки программирования | `Python` `JavaScript` `C#` `1С:Предприятие` |
+| Технологии верстки | `HTML5` `CSS3` `Bootstrap` |
+| Языки и нотации моделирования и проектирования | `UML` `IDEF` `DFD` `BPMN` |
+| Базы данных | `PostgreSQL` `MySQL` `MS SQL Server` `SQLite` |
+| Microsoft Office | `Microsoft Excel` `Word` `PowerPoint` `Access` |
+| Графические редакторы | `Adobe Photoshop` `Illustrator` `CorelDRAW` |
 
 ## Достижения и награды
 
