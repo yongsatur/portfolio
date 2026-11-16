@@ -32,7 +32,8 @@ $`\color{yellow}*`$ `Go`
 
 $`\color{yellow}*`$ `Python` · `Django`<br>
 $`\color{yellow}*`$ `HTML5` · `CSS3` · `JavaScript`<br>
-$`\color{yellow}*`$ `Bootstrap 5`
+$`\color{yellow}*`$ `Bootstrap 5`<br>
+$`\color{yellow}*`$ `PostgreSQL`
 
 **Проектирование и моделирование:** по [ссылке](../Проектирование/Спортивный%20клуб) можно посмотреть процесс проектирования информационной системы.
 
