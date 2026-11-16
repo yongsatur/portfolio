@@ -52,7 +52,7 @@ $`\color{yellow}*`$ `Bootstrap 4`
 
 **Стек технологий:**
 
-$`\color{yellow}*`$ `C#` · `.NET`<br>
+$`\color{yellow}*`$ `C#` · `.NET Framework`<br>
 $`\color{yellow}*`$ `WPF` · `XAML`
 
 ## Комплекс программных приложений для IT-компании
