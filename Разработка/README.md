@@ -64,6 +64,7 @@ $`\color{yellow}*`$ `WPF` · `XAML`
 $`\color{yellow}*`$ `Python` · `Django`<br>
 $`\color{yellow}*`$ `HTML5` · `CSS3` · `JavaScript`<br>
 $`\color{yellow}*`$ `Bootstrap 5`<br>
+$`\color{yellow}*`$ `SQLite`<br>
 $`\color{yellow}*`$ `1С:Предприятие`
 
 **Проектирование и моделирование:** по [ссылке](../Проектирование/IT-компания) можно посмотреть процесс проектирования комплекса программных приложений.
