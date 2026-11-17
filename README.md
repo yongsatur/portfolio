@@ -17,9 +17,10 @@
 | Категория | Инструменты и технологии | 
 | :--- | :--- |
 | Языки программирования | `Python` `JavaScript` `C#` `1С:Предприятие` |
-| Технологии верстки | `HTML5` `CSS3` `Bootstrap` |
+| Веб-технологии и фреймворки | `Django` `HTML5` `CSS3` `Bootstrap` |
 | Языки и нотации моделирования и проектирования | `UML` `IDEF` `DFD` `BPMN` |
 | Базы данных | `PostgreSQL` `MySQL` `MS SQL Server` `SQLite` |
+| Инструменты разработки | `Git` `GitHub` |
 | Microsoft Office | `Excel` `Word` `PowerPoint` `Access` |
 | Графические редакторы | `Photoshop` `Illustrator` `CorelDRAW` |
 
